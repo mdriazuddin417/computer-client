@@ -7,7 +7,7 @@ const Blog = () => {
         <div className="hover:shadow-lg p-5 hover:rounded-lg duration-300">
           <p className="text-xl">
             {" "}
-            How will you improve the performance of a React Application ?
+            How would you improve the performance of a React Application ?
           </p>
           <p className="text-gray-500">
             Ans: Keeping component state local where necessary. Memoizing React
